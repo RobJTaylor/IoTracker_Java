@@ -22,7 +22,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		final String URL = "home629779161.1and1-data.host";
 		final String username = "u85301453-JAVA";
-		final String password = "VCQUHINR";
+		final String password = "PASS";
 		
 		String hostname = "Unknown";
 		
